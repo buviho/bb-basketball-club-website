@@ -255,8 +255,7 @@ nav ul li a {
 }
 
 .single-picture img {
-    width: 700.8px;
-    height: 450px;
+    width: 100%;
     border-radius: 7px;
 }
 
